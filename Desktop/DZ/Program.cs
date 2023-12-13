@@ -4,9 +4,9 @@
 // Пример
 // массив [10 21 14 93 23] => 2
 
-// //System.Console.WriteLine("Введите количество: "); 
+// Console.WriteLine("Введите количество: "); 
 
-// //int num = Convert.ToInt32(Console.ReadLine()); 
+// int num = Convert.ToInt32(Console.ReadLine()); 
 
 // int[] array = new int[10]; 
 
@@ -16,7 +16,7 @@
 
 // {
 //     array[i] = new Random().Next(1, 101); 
-//     System.Console.Write(array[i] + " "); 
+//     Console.Write(array[i] + " "); 
 
 //     if (array[i]>=20 && array[i]<=90)
 //     {
@@ -25,5 +25,5 @@
 
 // } 
 
-// System.Console.WriteLine();
-// System.Console.Write(count + " элементов соответсвующих условию");
+// Console.WriteLine();
+// Console.Write(count + " элементов соответсвующих условию");

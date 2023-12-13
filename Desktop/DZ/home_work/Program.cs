@@ -5,26 +5,26 @@
 // массив [1 8 43 4 55 60 3 2 1 3] => 4
 
 
-System.Console.WriteLine("Введите количество: "); 
+// Console.WriteLine("Введите количество: "); 
 
-int num = Convert.ToInt32(Console.ReadLine()); 
+// int num = Convert.ToInt32(Console.ReadLine()); 
 
-int[] array = new int[num]; 
+// int[] array = new int[num]; 
 
-int count = 0;
+// int count = 0;
 
-for(int i = 0; i<array.Length; i++)
+// for(int i = 0; i<array.Length; i++)
 
-{
-    array[i] = new Random().Next(1, 31); 
-    Console.Write(array[i] + " "); 
+// {
+//     array[i] = new Random().Next(1, 31); 
+//     Console.Write(array[i] + " "); 
 
-    if (array[i] % 2 ==0)
-    {
-        count++;
-    }
+//     if (array[i] % 2 ==0)
+//     {
+//         count++;
+//     }
 
-} 
+// } 
 
-System.Console.WriteLine();
-System.Console.Write(count + " элементов соответствует условию");
+// Console.WriteLine();
+// Console.Write(count + " элементов соответствует условию");
