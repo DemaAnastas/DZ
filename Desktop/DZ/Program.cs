@@ -4,26 +4,26 @@
 // Пример
 // массив [10 21 14 93 23] => 2
 
-System.Console.WriteLine("Введите количество: "); 
+// //System.Console.WriteLine("Введите количество: "); 
 
-int num = Convert.ToInt32(Console.ReadLine()); 
+// //int num = Convert.ToInt32(Console.ReadLine()); 
 
-int[] array = new int[10]; 
+// int[] array = new int[10]; 
 
-int count = 0;
+// int count = 0;
 
-for(int i = 0; i<array.Length; i++)
+// for(int i = 0; i<array.Length; i++)
 
-{
-    array[i] = new Random().Next(1, 101); 
-    System.Console.Write(array[i] + " "); 
+// {
+//     array[i] = new Random().Next(1, 101); 
+//     System.Console.Write(array[i] + " "); 
 
-    if (array[i]>=20 && array[i]<=90)
-    {
-        count++;
-    }
+//     if (array[i]>=20 && array[i]<=90)
+//     {
+//         count++;
+//     }
 
-} 
+// } 
 
-System.Console.WriteLine();
-System.Console.Write(count + " элементов соответсвующих условию");
+// System.Console.WriteLine();
+// System.Console.Write(count + " элементов соответсвующих условию");
