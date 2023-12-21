@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\home_work\home_work3\bin\Debug\net8.0\home_work3.exe
+C:\Users\User\Desktop\home_work\home_work3\bin\Debug\net8.0\home_work3.deps.json
+C:\Users\User\Desktop\home_work\home_work3\bin\Debug\net8.0\home_work3.runtimeconfig.json
+C:\Users\User\Desktop\home_work\home_work3\bin\Debug\net8.0\home_work3.dll
+C:\Users\User\Desktop\home_work\home_work3\bin\Debug\net8.0\home_work3.pdb
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.AssemblyInfo.cs
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.sourcelink.json
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.dll
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\refint\home_work3.dll
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.pdb
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\home_work3.genruntimeconfig.cache
+C:\Users\User\Desktop\home_work\home_work3\obj\Debug\net8.0\ref\home_work3.dll
